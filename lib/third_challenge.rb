@@ -1,5 +1,4 @@
-def third_challenge
-  epic_tragedy = {
+epic_tragedy = {
    :montague => {
       :patriarch => {
         :name => "Lord Montague",
@@ -15,7 +14,7 @@ def third_challenge
         :status => "alive"
         },
       :hero_friends => []
-   }, 
+    }, 
    :capulet => {
       :patriarch => {
         :name => "Lord Capulet",
